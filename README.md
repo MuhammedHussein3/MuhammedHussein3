@@ -48,28 +48,3 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" width="40" height="40"/>
   </a>
 </p>
-
-## Projects
-
-### CRM System Microservices
-
-Developed and maintained microservices for a CRM system, focusing on:
-- **Customer Relationship Management**: Creating scalable solutions for managing customer data, interactions, and business operations.
-- **Microservices Architecture**: Building robust, distributed services to handle various CRM functionalities.
-- **Integration**: Ensuring seamless communication between services and external systems.
-
-## Skills
-
-- **Programming Languages**: Java, Kotlin, Python
-- **Frameworks**: Spring Boot, Spring Security
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Messaging Systems**: Kafka, RabbitMQ
-- **Tools & Technologies**: Docker, Redis, Git, GraphQL
-- **Design Patterns**: Applied in various services for better maintainability and scalability
-
-## Contact
-
-Feel free to reach out if you have any questions or would like to collaborate on a project:
-
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://linkedin.com/in/muhammad-hussein-a260a32a1)
