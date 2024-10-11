@@ -1,6 +1,8 @@
 
 <h3 align="center">
-  I'm a Software Engineer with deep expertise in Java and the Spring Framework. My strong problem-solving skills and passion for crafting innovative solutions drive me to deliver high-quality software. I have experience in developing and maintaining microservices for CRM systems, where I focus on designing and implementing scalable and efficient solutions for managing customer relationships and business operations.
+Software Engineer specializing in Java Backend with 2 years of experience involved in the software
+industry for over 3 years. Proficient in designing and implementing scalable microservices using
+Java, Kotlin and Spring Boot, with a solid understanding of database management.
 </h3>
 
 ## Connect with Me
